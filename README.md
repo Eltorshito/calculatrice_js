@@ -7,4 +7,4 @@ Hey ! 👍
 - Add input id "screen"
 - Add 17 buttons
 - Add calculator style
-- 
+- ...
