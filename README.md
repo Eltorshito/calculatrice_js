@@ -1,5 +1,4 @@
-# Calculate
-
+# Calculator
 Hey ! 👍
 
 - Add index.html, style.css and script.js
