@@ -6,4 +6,5 @@ Hey ! 👍
 - Add div class "calculator"
 - Add input id "screen"
 - Add 17 buttons
-- Write css...
+- Add calculator style
+- 
